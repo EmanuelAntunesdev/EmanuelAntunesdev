@@ -1,7 +1,7 @@
 ## Hi there, I'm Emanuel Antunes, development student!
 
 
-
+![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelAntunesdev&show_icons=true&theme=github_dark)
 
 ## Tecnologias que eu estou utilizando atualmente
 
